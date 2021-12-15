@@ -32,7 +32,7 @@ class ProfileView extends StatelessWidget {
         const Padding(
           padding: EdgeInsets.fromLTRB(16.0, 24.0, 16.0, 0.0),
           child: Text(
-            "Developer Ahmed",
+            "Developer Ben",
             style: TextStyle(
               fontSize: 36,
               fontWeight: FontWeight.bold,

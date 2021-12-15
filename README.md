@@ -1,7 +1,7 @@
 # Flower selling app using firebase backend.
 ### ⚠️ Add firebase and enable email authentication and firstore database or it won't work
 ## Don't know how to do?
- - Craete a firebase project no need to enable `Google Analytics`.
+ - Create a firebase project no need to enable `Google Analytics`.
  - Open the project then add a new iOS app. 
  - Download the `GoogleService-info.plist` and put it inside `ios/Runner/`
  - Go to `Authentication` from left panel then `Sign-in method` and Enable `Email/Password`
